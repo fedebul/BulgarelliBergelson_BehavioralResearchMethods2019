@@ -1,5 +1,9 @@
 # BulgarelliBergelson_BehavioralResearchMethods2019
 
+If you are looking for the links in footnotes 3 and 4, they can now be found here:
+https://bergelsonlab.gitbook.io/blab/data-pipeline/audio-processing (replaces footnote 3)
+https://bergelsonlab.gitbook.io/blab/data-pipeline/annotation-notes-1 (replaces footnote 4)
+
 Scripts and data files for the manuscript: Look who's talking: a comparison of automated and human-generated speaker tags in naturalistic recordings. 
 
 LTR_Manuscript.Rmd will produce the manuscript that was submitted for review. 
